@@ -1,3 +1,2 @@
-vk_api==11.9.0
 aiosqlite==0.20.0
 vkbottle==4.10.0
